@@ -1,0 +1,42 @@
+.team-member {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .member-image {
+    background-color: #ccc; /* Placeholder color */
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    overflow: hidden;
+    margin: 0 auto 20px auto;
+  }
+  
+  .member-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  h3 {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  p {
+    font-size: 14px;
+    color: #777;
+    margin-bottom: 10px;
+  }
+  
+  .social-links {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+  }
+  
+  .social-links a img {
+    width: 24px;
+    height: 24px;
+  }
+  
